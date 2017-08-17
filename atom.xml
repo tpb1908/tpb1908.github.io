@@ -4,12 +4,27 @@
  <title>Theo's notes</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-08-16T17:41:49+01:00</updated>
+ <updated>2017-08-17T22:16:29+01:00</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
    <email>dyutibarma@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Edinburgh Food Shopping</title>
+   <link href="http://localhost:4000/Edinburgh-Food-Shopping"/>
+   <id>http://localhost:4000/Edinburgh-Food-Shopping</id>
+   <updated>2017-08-17T00:00:00+01:00</updated>
+   <content type="html">&lt;p&gt;A Google Map listing the locations of ~150 shops in Edinburgh for buying food.&lt;/p&gt;
+
+&lt;snippet&gt;&lt;/snippet&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=1FiFH3BiPCMsjUV8d-fR5tmuicmA&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
 
  
 
