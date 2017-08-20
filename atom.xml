@@ -4,7 +4,7 @@
  <title>Theo's notes</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-08-18T23:33:54+01:00</updated>
+ <updated>2017-08-20T12:44:25+01:00</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/Edinburgh-Food-Shopping"/>
    <id>http://localhost:4000/Edinburgh-Food-Shopping</id>
    <updated>2017-08-17T00:00:00+01:00</updated>
-   <content type="html">&lt;p&gt;A Google Map listing the locations of ~150 shops in Edinburgh for buying food.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A Google Map listing the locations of ~210 shops in Edinburgh for buying food.&lt;/p&gt;
 
 &lt;snippet&gt;&lt;/snippet&gt;
 
